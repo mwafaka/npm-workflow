@@ -1,8 +1,5 @@
-Certainly! Here's an assignment you can give to students to reinforce their understanding of the topics:
 
-Assignment: JavaScript Development Essentials
-
-Objective: Gain practical experience with npm workflow, module management, and bundling tools.
+ Gain practical experience with npm workflow, module management, and bundling tools.
 
 Instructions:
 
