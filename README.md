@@ -1,5 +1,5 @@
 
- Gain practical experience with npm workflow, module management, and bundling tools.
+ Gain practical experience with npm workflow, module management.
 
 Instructions:
 
