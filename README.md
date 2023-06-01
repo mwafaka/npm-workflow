@@ -6,7 +6,7 @@ In this exercise, you will gain practical experience with npm workflow and modul
 
 ### Task1: Setting up the project:
 
-   - Create a new directory for your project.
+   - Create a new Html and js for your project.
    - Initialize a new npm project using the command `npm init`.
    - Install the following modules as dependencies:
      - "uuid" for generating unique identifiers
