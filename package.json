@@ -1,0 +1,24 @@
+{
+  "name": "npm-workflow",
+  "version": "1.0.0",
+  "description": "In this exercise, you will gain practical experience with npm workflow and module management. Follow the instructions below:",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "uuid": "^9.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwafaka/npm-workflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwafaka/npm-workflow/issues"
+  },
+  "homepage": "https://github.com/mwafaka/npm-workflow#readme"
+}
