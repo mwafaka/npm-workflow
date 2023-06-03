@@ -22,6 +22,6 @@ In this exercise, you will gain practical experience with npm workflow and modul
 
    - Examine the `package.json` file in your project directory.
    - Identify the dependencies section and note down the modules you installed in step 1.
-   - Differentiate between the dependencies and devDependencies sections.
+   
 
 Your task is to follow these instructions and complete the exercise using the "uuid" package. Good luck!
