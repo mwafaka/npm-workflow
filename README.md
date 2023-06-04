@@ -9,7 +9,7 @@ In this exercise, you will gain practical experience with npm workflow and modul
    - Create a new html and js files for your project.
    - Initialize a new npm project using the command `npm init`.
    - Install the following modules as dependencies:
-     - "uuid" for generating unique identifiers
+     - "uuid" for generating unique identifiers LINK[https://github.com/uuidjs/uuid]
      - "moment" for date manipulation
    - Create an HTML file and a JavaScript file in your project directory.
 
@@ -24,4 +24,4 @@ In this exercise, you will gain practical experience with npm workflow and modul
    - Identify the dependencies section and note down the modules you installed in step 1.
    
 
-Your task is to follow these instructions and complete the exercise using the "uuid" package. Good luck!
+Your task is to follow these instructions and complete the exercise using the "uuid" "moment" package. Good luck!
